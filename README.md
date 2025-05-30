@@ -3,4 +3,4 @@
     <img src="https://komarev.com/ghpvc/?username=noyu38&color=blue&style=plastic" alt="noyu38" />
   </a>
   
-http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=noyu38&theme=nord_dark
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=noyu38&theme=nord_dark" alt=""></img>
